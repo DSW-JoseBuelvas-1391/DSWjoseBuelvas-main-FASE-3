@@ -1,20 +1,20 @@
 header{
-    background-color:#316B83;
+    background-color:#0994d0;
 }
 
 nav{
-    background-color:#6D8299;
+    background-color:#9353ec;
 }
 
 section{
-    background-color: #8CA1A5;
+    background-color: #17d0f5;
     grid-column: 1/4;
 }
 aside{
-    background-color: #D5BFBF;
+    background-color: #f9cfcf;
 }
 footer{
-    background-color: #316B83;
+    background-color: #7a50f8;
 }
 main{
     display: grid;
