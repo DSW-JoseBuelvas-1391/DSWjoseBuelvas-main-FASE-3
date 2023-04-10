@@ -3,7 +3,7 @@ header{
 }
 
 nav{
-    background-color:#9353ec;
+    background-color:#9353ec61;
 }
 
 section{
@@ -14,7 +14,7 @@ aside{
     background-color: #f9cfcf;
 }
 footer{
-    background-color: #7a50f8;
+    background-color: #5c2af0da;
 }
 main{
     display: grid;
